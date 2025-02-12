@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">EASE OF USE - AESTHETICS - PERFORMANCE are the criteria for building systems </h3>
 
-- 🌱 I’m currently learning UI/UI Desgin to support for build website that enhance the quality of product
+- 🌱 I’m currently learning UX/UI Desgin to support for build website that enhance the quality of product
 
 - 👨‍💻 Here is my portfolio (https://tovanhuong.id.vn/)
 
