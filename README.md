@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Web Developer from VietNam</h3>
-<img alt="Coding" width="200" src="https://tovanhuong.id.vn/wp-content/uploads/2025/02/CV-Van-Huong.png" />
 
 - 🌱 I’m currently learning UI/UI Desgin to support for build website that enhance the quality of product
 
@@ -12,6 +11,9 @@
 
 - ⚡ Fun fact **Love challenges**
 
+-  ❤️ Here is my CV
+-  
+<img alt="Coding" width="200" src="https://tovanhuong.id.vn/wp-content/uploads/2025/02/CV-Van-Huong.png" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tô văn hưởng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tô văn hưởng" height="30" width="40" /></a>
