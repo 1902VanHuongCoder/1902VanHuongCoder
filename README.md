@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Web Developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://tovanhuong.id.vn/wp-content/uploads/2025/02/CV-Van-Huong.png" />
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning UI/UI Desgin to support for build website that enhance the quality of product
 
-- 👨‍💻 All of my projects are available at ([paulto.netlify.app](https://paulto.netlify.app/))
+- 👨‍💻 Here is my portfolio (https://tovanhuong.id.vn/)
 
-- 💬 Ask me about **ReactJS, PHP**
+- 💬 Ask me about **ReactJS, TailwindCSS, Figma, Wordpress, UX/UI design**
 
 - 📫 How to reach me **tovanhuong007@gmai.com**
 
