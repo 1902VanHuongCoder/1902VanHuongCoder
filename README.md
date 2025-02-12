@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate Web Developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="[https://tovanhuong.id.vn/wp-content/uploads/2024/11/CV-Van-Huong.png](https://tovanhuong.id.vn/wp-content/uploads/2025/02/CV-Van-Huong.png)" />
+<img align="right" alt="Coding" width="400" src="https://tovanhuong.id.vn/wp-content/uploads/2025/02/CV-Van-Huong.png" />
 
 - 🌱 I’m currently learning **Express**
 
