@@ -13,7 +13,7 @@
 
 -  ❤️ Here is my CV
   
-<div align="center"><img align="center" alt="Coding" width="600" src="https://tovanhuong.id.vn/wp-content/uploads/2025/05/paul-to-cv.png" /></div>
+<div align="center"><img align="center" alt="Coding" width="600" src="https://tovanhuong.id.vn/wp-content/uploads/2025/05/paul-to-cv.pn" /></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/vanhuong.to.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tô văn hưởng" height="30" width="40" /></a>
